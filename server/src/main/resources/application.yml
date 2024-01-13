@@ -1,3 +1,6 @@
+jwt:
+  secret: '£ff4cc690-eef0-4ef1-bd3d-fd5da4cc3e72@[}'
+
 server:
   port: 8082
 
